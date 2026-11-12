@@ -1,0 +1,18 @@
+{
+  "name": "Trade Checklist",
+  "short_name": "Trade Checklist",
+  "description": "4H to 15M trading setup checklist and journal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d120f",
+  "theme_color": "#101713",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
